@@ -1,1 +1,1 @@
-https://mybinder.org/v2/gh/samuelmelz/Logica/6bbdd11ed3d5332169334038396fef001221c0c2
+https://hub.gke2.mybinder.org/user/samuelmelz-logica-0c624g9p/https://github.com/samuelmelz/Logica
